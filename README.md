@@ -5,15 +5,23 @@
 📫 How to reach me  mkaplan@student.42kocaeli.com.tr
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkekaplan)
+
+<a href="https://www.linkedin.com/in/berkekaplan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkekaplan/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/berkekaplan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/berkekaplan" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/mkaplan"> <img align="center" height="30"  alt="Codewars icon" src="https://docs.codewars.com/logo.svg"> </a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Skills**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Ecole 42 Stats </b>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mkaplan?1337Badge=off&UM6P=off" alt="mkaplan's 42 stats" /></a>
+<p ><img  src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" height="25" alt="C">&nbsp;
+<img  src="https://img.shields.io/badge/-HTML5-05122A?style=flat&amp;logo=HTML5" height="25" alt="HTML5">&nbsp;
+<img  src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" height="25" alt="CSS3">&nbsp;</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Ecole 42 Stats** </b>
+
+<a href="https://profile.intra.42.fr/users/mkaplan"><img src="https://badge.mediaplus.ma/greenbinary/mkaplan?1337Badge=off&UM6P=off" alt="mkaplan's 42 stats" /></a>
+<!--
+<a href="https://profile.intra.42.fr/users/mkaplan"><img src="https://badge42.vercel.app/api/v2/clb16cs8m00210fjnxla8ydra/stats?cursusId=21&coalitionId=231" alt="sguntepe's 42 stats" /></a>
+-->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 
