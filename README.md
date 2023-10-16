@@ -24,9 +24,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Ecole 42 Stats** </b>
 
 <a href="https://profile.intra.42.fr/users/mkaplan"><img src="https://badge.mediaplus.ma/greenbinary/mkaplan?1337Badge=off&UM6P=off" alt="mkaplan's 42 stats" /></a>
-<!--
-<a href="https://profile.intra.42.fr/users/mkaplan"><img src="https://badge42.vercel.app/api/v2/clb16cs8m00210fjnxla8ydra/stats?cursusId=21&coalitionId=231" alt="sguntepe's 42 stats" /></a>
--->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 
@@ -40,4 +37,3 @@
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{berkekaplan}/count.svg" alt="berkekaplan :: Visitor's Count" /></p>
 <br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
