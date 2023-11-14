@@ -32,7 +32,3 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkekaplan&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""><br/></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
-
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img width="210" src="https://profile-counter.glitch.me/{berkekaplan}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
-<br/>
