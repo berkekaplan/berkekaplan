@@ -7,8 +7,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Socials: 
 
 <a href="https://www.linkedin.com/in/berkekaplan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berkekaplan/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/berkekaplan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/berkekaplan" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/mkaplan"> <img align="center" height="30"  alt="Codewars icon" src="https://docs.codewars.com/logo.svg"> </a>
 
 ## 🧑‍💻 Current Technical Skills
 
