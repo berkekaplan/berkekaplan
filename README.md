@@ -30,8 +30,4 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=berkekaplan&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" alt=""><br/></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkekaplan&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""><br/></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
