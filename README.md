@@ -11,15 +11,19 @@
 <a href="https://www.hackerrank.com/berkekaplan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/berkekaplan" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/mkaplan"> <img align="center" height="30"  alt="Codewars icon" src="https://docs.codewars.com/logo.svg"> </a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Skills**
+## 🧑‍💻 Current Technical Skills
 
-<p ><img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,visualstudio,html,css,github,git,)](https://skillicons.dev)
+
+<br>
+
+> :desktop_computer:  Languages - C | C++ | Bash | HTML | CSS
+
+> :hammer_and_wrench:  Tools - Git | GitHub
+
+> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Ecole 42 Stats** </b>
 
