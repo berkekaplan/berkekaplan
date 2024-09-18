@@ -13,11 +13,11 @@
 
 <br>
 
-> :desktop_computer:  Languages - C | C++ | Bash | HTML | CSS
+> Languages - C | C++ | Bash | HTML | CSS
 
-> :hammer_and_wrench:  Tools - Git | GitHub
+> Tools - Git | GitHub
 
-> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+> IDEs - Vim | Visual Studio | Visual Studio Code
 
 <br>
 
