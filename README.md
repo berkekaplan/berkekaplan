@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,visualstudio,html,css,github,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,html,css,github,git,)](https://skillicons.dev)
 
 <br>
 
