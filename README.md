@@ -5,7 +5,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Socials: 
 
-<a href="https://www.linkedin.com/in/berkekaplan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://github.com/berkekaplan" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/berkekaplan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://github.com/berkekaplan" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" height="60" width="80" /></a>
 
 ## 🧑‍💻 Current Technical Skills
 
