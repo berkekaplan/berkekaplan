@@ -1,4 +1,4 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About Me**
+**About Me**
 🎓 &nbsp; Studied at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)<br/>
 📫 How to reach me berkekaplan41@gmail.com
 
