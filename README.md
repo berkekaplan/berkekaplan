@@ -1,7 +1,6 @@
 ## About Me
 
 🎓 &nbsp; Studied at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)<br/>
-📫 How to reach me berkekpl@proton.me
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Socials: 
 
